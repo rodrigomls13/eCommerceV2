@@ -11,6 +11,7 @@
 			
 		<tr><td><h1>Opções do Sistema:</h1></td></tr>
 		<tr><td><a href="login_cliente.jsp">Login do cliente </a> </td></tr>
+		
 		<tr><td><a href="login_func.jsp">Login do funcionário</a> </td></tr>
 		<tr><td><a href="ClienteController?acao=Incluir">Cadastro </a> </td></tr>
 	
